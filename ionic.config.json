@@ -1,0 +1,7 @@
+{
+  "name": "IonicStarter",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
